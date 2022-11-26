@@ -1,4 +1,4 @@
-# Sudoku-Solver-Java
+# Sudoku-Solver-Processing
 
 Run with Processing IDE. https://processing.org/download  
 
